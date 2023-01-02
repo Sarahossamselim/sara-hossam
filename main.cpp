@@ -145,7 +145,7 @@ void display(){
             glTranslatef(1.8+translateX, 1.3+translateY, -14.5+translateZ);
             glutSolidSphere(0.1,20,20);//draw sphere
             glPopMatrix ();//pops the coordinates to a matrix to make the object appear
-//------------------------------------------------------ chrismtmasTREE----------------------------------------------------------
+//------------------------------------------------------ chrismtmasTREE----------------------------------------------------------------------------------------
            // the first lower cone of the tree
             glPushMatrix ();//push the coordinates to a matrix to make the object appear
             glTranslatef(-1.0,-1.0,-4.5);//set  position
