@@ -240,7 +240,7 @@ void display(){
             glutSolidCube(0.28);//draw cube
             glPopMatrix ();//pops the coordinates to a matrix to make the object appear
 
-//-------------------------------------------------SKY--------------------------------------------
+//-------------------------------------------------SKY----------------------------------------------------------------------------------------------------
            //moon
             glPushMatrix();//push the coordinates to a matrix to make the object appear
             glColor3f(1,1,1);//set color moon
