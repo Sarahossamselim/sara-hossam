@@ -110,7 +110,7 @@ int main(int argc,char**argv){
 void display(){
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);//depth is used to create 3D objects
             glLoadIdentity();
- //----------------------------------------------------------ICEMAN--------------------------------------------
+ //----------------------------------------------------------snowmanMAN--------------------------------------------
             // head.
             glColor3f(0.7450980392,0.9411764706,0.8901960784);//set color of snowman
             glPushMatrix();//push the coordinates to a matrix to make the object appear
