@@ -404,7 +404,7 @@ void display(){
             glVertex3f(1,1.3,-1.3);
 
             //left face
-            glColor3f(0.83137254,0.54117647,0.10980239216);//set color beij
+            glColor3f(0.83137254,0.54117647,0.10980239216);//set color to beij
             //set its coordinates
             glVertex3f(-3.7,1.3,-3.5);
             glVertex3f(-3.7,1,-3.5);
