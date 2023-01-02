@@ -335,7 +335,7 @@ void display(){
             glVertex3f(1.3,1.3,1.3);
 
             //back face
-            glColor3f(1.0,0.0,0.0);//set color red
+            glColor3f(1.0,0.0,0.0);//set color to red
             //set its coordinates
             glVertex3f(1.3,1.3,-1.3);
             glVertex3f(1.3,-1.3,-1.3);
