@@ -26,7 +26,7 @@ glutPostRedisplay();// redisplay
 void init(){
     glClearColor(0.0,0.0,0.0,1.0);
 }
-
+///////////////////////////////////////////////////////////onmouseclick\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 void OnMouseClick(int button, int state, int x, int y)
 {//the object is translated forward when we click left button
   if (button == GLUT_LEFT_BUTTON && state == GLUT_DOWN){
